@@ -3,7 +3,7 @@
 ## Description
 
 This repository contains a simple example of the MVC pattern. 
-
+![MVC Pattern diagram](assets/img.png)
 
 ## Testing 
 
